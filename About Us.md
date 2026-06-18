@@ -11,10 +11,10 @@ Our Lab location on Google Maps can be found [here](https://maps.app.goo.gl/buxC
 
 
 ## Acknowledgement
-Thanks to Xuerui Huang, Chong-Xin Gan, and Lishi Zuo for the help in manual check and participation in discussion.
+Thanks to Zhe Li, Xuerui Huang, Chong-Xin Gan, Lishi Zuo, and Weiwei Lin for the help in manual check and participation in the discussion.
 
 ## Contact Us
-In case you have any questions and queries about the database you can directly communicate with Ruichen Zuo by email (ruichen.zuo@connect.polyu.hk).
+In case you have any questions or queries about the database, you can directly communicate with Ruichen Zuo by email (ruichen.zuo@connect.polyu.hk).
 
 ---
 <!--
